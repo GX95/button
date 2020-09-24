@@ -50,8 +50,8 @@ print (banner)
 print (menu)
 
 #____Open Youtube
-#def yt():
-#    os.system("xdg-open https://youtube.com/Din-zUgex95")
+def yt():
+    os.system("xdg-open https://youtube.com/Din-zUgex95")
 
 def wait():
     print
@@ -62,8 +62,8 @@ def wait():
 def succes():
     print "   \033[94m| \033[92mSucces \033[94m|"
     print
-#    time.sleep(1)
-#    yt()
+    time.sleep(1)
+    yt()
 
 
 #____Full Button
