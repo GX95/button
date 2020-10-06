@@ -10,4 +10,4 @@ git clone https://github.com/Din-zUgex95/button
 
 cd button
 
-python2 BTN.py
+python2 BTN.py 
