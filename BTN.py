@@ -39,7 +39,7 @@ menu="""   \033[94m|\033[93m1\033[94m| \033[97mFull Button
 """
 
 #____Extra Button
-Key1 = "extra-keys = [['TAB','*','_','ESC','ALT','UP','END'],['HOME','-','/','CTRL','LEFT','DOWN','RIGHT']]"
+Key1 = "extra-keys = [['HOME','*','_','ESC','ALT','UP','END'],['TAB','-','/','CTRL','LEFT','DOWN','RIGHT']]"
 Key2 = "extra-keys = [['CTRL','','','UP','DOWN','LEFT','RIGHT']]"
 
 #____Make a Folder
